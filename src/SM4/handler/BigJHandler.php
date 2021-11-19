@@ -1,5 +1,5 @@
 <?php
-namespace Xiuchuan\Ecc\SM34\handler;
+namespace Xiuchuan\Ecc\SM4\handler;
 /**
  * BigJHandler @ SM3-PHP
  *
@@ -8,7 +8,7 @@ namespace Xiuchuan\Ecc\SM34\handler;
  * Powered by PhpStorm
  */
 
-use Xiuchuan\Ecc\SM34\libs\WordConversion;
+use Xiuchuan\Ecc\SM4\libs\WordConversion;
 
 /**
  * 小j处理类

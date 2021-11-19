@@ -4,7 +4,7 @@ namespace Xiuchuan\Ecc\SM2;
 use Xiuchuan\Ecc\SM3\SM3Digest;
 use Xiuchuan\Ecc\SM2\Hex2ByteBuf;
 use Xiuchuan\Ecc\SM2\Clipher;
-class SM2Enc
+class Sm2Enc
 {
    
     private const  SM2_ADDBYTE = 97;//加密后的数据会增加的长度

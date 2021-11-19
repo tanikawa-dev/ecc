@@ -1,5 +1,5 @@
 <?php
-namespace Xiuchuan\Ecc\SM34\types;
+namespace Xiuchuan\Ecc\SM4\types;
 /**
  * Word @ SM3-PHP
  *
@@ -7,8 +7,8 @@ namespace Xiuchuan\Ecc\SM34\types;
  * 10月. 14th 2019
  * Powered by PhpStorm
  */
-use Xiuchuan\Ecc\SM34\types\BitString;
-// require_once SM34PATH.'/types/BitString.php';
+use Xiuchuan\Ecc\SM4\types\BitString;
+// require_once SM4PATH.'/types/BitString.php';
 
 /**
  * 字类型

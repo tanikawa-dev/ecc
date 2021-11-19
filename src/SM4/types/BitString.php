@@ -1,5 +1,5 @@
 <?php
-namespace Xiuchuan\Ecc\SM34\types;
+namespace Xiuchuan\Ecc\SM4\types;
 /**
  * BitString @ SM3-PHP
  *

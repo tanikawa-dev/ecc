@@ -1,5 +1,5 @@
 <?php
-namespace Xiuchuan\Ecc\SM34\handler;
+namespace Xiuchuan\Ecc\SM4\handler;
 /**
  * ExtendedCompression @ SM3-PHP
  *
@@ -7,11 +7,11 @@ namespace Xiuchuan\Ecc\SM34\handler;
  * 10月. 15日 2019年
  * Powered by PhpStorm
  */
-use Xiuchuan\Ecc\SM34\types\Word;
-use Xiuchuan\Ecc\SM34\libs\WordConversion;
-use Xiuchuan\Ecc\SM34\handler\Substitution;
-use Xiuchuan\Ecc\SM34\handler\SmallJHandler;
-use Xiuchuan\Ecc\SM34\handler\BigJHandler;
+use Xiuchuan\Ecc\SM4\types\Word;
+use Xiuchuan\Ecc\SM4\libs\WordConversion;
+use Xiuchuan\Ecc\SM4\handler\Substitution;
+use Xiuchuan\Ecc\SM4\handler\SmallJHandler;
+use Xiuchuan\Ecc\SM4\handler\BigJHandler;
 
 /**
  * 扩展压缩算法
